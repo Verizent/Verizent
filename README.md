@@ -19,5 +19,6 @@ Developed exam monitoring system using Amazon Rekognition that won 1st place at 
 
 ## 🎯 Currently
 
-- Exploring and building distributed systems projects
+- Exploring distributed systems
+- Building projects
 - Building a reading habit
