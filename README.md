@@ -25,7 +25,7 @@ Full-stack MERN platform for an educational non-profit. 250+ users, 115% YoY gro
  
 ## Tech Stack
  
-**Languages:** Python, C, Java, JavaScript, Ruby, C++
+**Languages:** Python, C, Java, JavaScript, Ruby, C++  
 **Web:** React.js, Node.js, Express.js, Tailwind CSS  
 **Databases:** MongoDB, MySQL  
 **Tools:** Git, Docker, Linux, AWS  
